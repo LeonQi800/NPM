@@ -1,0 +1,34 @@
+{
+  "name": "dsl-react-table",
+  "version": "1.0.0",
+  "description": "response table design for device service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonQi800/dsl-react-table.git"
+  },
+  "keywords": [
+    "react",
+    "table"
+  ],
+  "author": "Leon <leonqi800@gmail.com> (https://github.com/LeonQi800/dsl-react-table)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeonQi800/dsl-react-table/issues"
+  },
+  "homepage": "https://github.com/LeonQi800/dsl-react-table#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
