@@ -3,7 +3,7 @@
 <a href="https://npmjs.com/package/dsl-react-table" target="\_parent">
   <img alt="" src="https://img.shields.io/badge/npm-download-green.svg" />
 </a>
-<a href="https://github.com/tannerlinsley/react-table" target="\_parent">
+<a href="https://github.com/LeonQi800/dsl-react-table" target="\_parent">
   <img alt="" src="https://img.shields.io/github/followers/leonqi800.svg?label=Start&style=social" />
 </a>
 
